@@ -1,0 +1,8 @@
+Contribute to the open source community.
+It is used to developers in project time,its mos thelp full
+Keeping track of code.
+Synchronoise code
+Create and use a repository.
+Start and manage a new branch.
+Make changes to a file and push them to GitHub as commits.
+Open and merge a pull request.
